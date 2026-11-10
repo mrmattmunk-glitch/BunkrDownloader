@@ -2,7 +2,7 @@
 
 Usage:
     Run the script from the command line with a valid album or media URL:
-        python3 downloader.py <album_or_media_url>
+        python3 downloader.py <https://bunkr.cr/a/PIByE2D9?>
 """
 
 from __future__ import annotations
